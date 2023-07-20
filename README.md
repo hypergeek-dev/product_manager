@@ -45,7 +45,7 @@ dotnet run
 
 Follow the on-screen instructions to interact with the application.
 
-#Contributing
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
 Fork the repository.
@@ -54,5 +54,5 @@ Make your changes and commit them: git commit -m "Add new feature"
 Push to the branch: git push origin my-feature-branch
 Create a pull request.
 
-#License
+# License
 This project is licensed under the MIT License.
